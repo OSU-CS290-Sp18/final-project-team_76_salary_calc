@@ -1,2 +1,2 @@
 # final-project-team_76_salary_calc
-final-project-team_76_salary_calc created by GitHub Classroom
+Final-Project-Team76-Salary-Calculator created by GitHub Classroom
