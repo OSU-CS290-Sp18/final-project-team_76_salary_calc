@@ -1,0 +1,39 @@
+<div id="modal-backdrop" class="hidden"></div>
+<div id="creation-modal" class="hidden">
+  <div class="modal-dialog">
+    <div class="modal-header">
+      <h3>Calculator your own salary and compare with others: </h3>
+      <button type="button" id="modal-close-button">&times;</button>
+    </div>
+
+    <div class="modal-body">
+      <div class="input-element">
+        <label for="text-input">Name</label>
+        <textarea id="name-input"></textarea>
+      </div>
+
+      <div class="input-element">
+        <label for="text-input">Position</label>
+        <textarea id="position-input"></textarea>
+      </div>
+
+      <div class="input-element">
+        <label for="text-input">MonthlySalary</label>
+        <input type="text" id="salary-input">
+      </div>
+      -or-
+      <div class="input-element">
+        <label for="text-input">HourlyWage</label>
+        <input type="text" id="wage-input">
+      </div>
+
+      <div class="modal-footer">
+        <button type="button" id="cancel-button">Cancel</button>
+        <button type="button" id="modal-submit">Create</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Button -->
+<a href="#"><button id="create-item-button">+</button></a>

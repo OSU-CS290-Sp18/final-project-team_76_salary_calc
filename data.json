@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5b23a14a0756cf00a0cd01e1"},"name":"Mark Twain","position":"Project Leader","yearincome":{"$numberInt":"24000"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5b23a14d0756cf00a0cd01e2"},"name":"Chase","position":"Senior Programer","yearincome":{"$numberInt":"115000"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5b23a2e11f552c342c2c8f46"},"name":"Bob Johnson","position":"Junior Programmer","yearincome":{"$numberInt":"67000"}}
+{"_id":{"$oid":"5b23a31d1f552c342c2c8f47"},"name":"Marth Lewis","position":"Senior Programmer","yearincome":{"$numberInt":"135000"}}
+{"_id":{"$oid":"5b23a9489d3375112457b7cd"},"name":"Mick","position":"Leader","yearincome":{"$numberInt":"600000"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5b23a95a9d3375112457b7ce"},"name":"Fa","position":"Leader","yearincome":{"$numberInt":"10400000"},"__v":{"$numberInt":"0"}}
