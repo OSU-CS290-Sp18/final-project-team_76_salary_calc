@@ -1,8 +1,5 @@
 # CS 290 Final Project
 
-# final-project-team_76_salary_calc
-Final-Project-Team76-Salary-Calculator created by GitHub Classroom
-
 Links:
 *  `https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API`
 *  `https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API/Using_the_MediaStream_Recording_API`
