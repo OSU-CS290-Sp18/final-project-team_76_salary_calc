@@ -9,9 +9,7 @@ app.set('view engine', 'handlebars');
 app.use(express.static('public'));
 
 app.get('/test', function(req, res, next) {
-    res.status(200).render('pay',{
-      name:'Mark Twain',
-      
+    res.status(200).render('index');
     })
 
 app.use('*', function(req, res, next) {
