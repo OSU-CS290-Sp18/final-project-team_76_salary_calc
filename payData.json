@@ -1,24 +1,24 @@
 {
-    "Mark Twain": {
-        "name": "Mark Twain",
-        "position": "Project Leader",
-        "yearincome": "24000",
-
-    },
-    "John Doe": {
-        "name": "Chase",
-        "position": "Senior Programmer",
-        "yearincome": "115000",
-    },
-    "Bob Johnson": {
-        "name": "Bob Johnson",
-        "position": "Junior Programmer",
-        "yearincome": "67000",
-
-    },
-    "Marth Lewis": {
-        "name": "Marth Lewis",
-        "position": "Senior Programmer",
-        "yearincome": "135000",
-    }
+   "salary": [
+      {
+	 "name": "Mark Twain",
+	 "position": "Project Leader",
+	 "yearincome": "24000"
+      },
+      {
+	 "name": "Chase",
+	 "position": "Senior Programmer",
+	 "yearincome": "115000"
+      },
+      {
+	 "name": "Bob Johnson",
+	 "position": "Junior Programmer",
+	 "yearincome": "67000"
+      },
+      {
+	 "name": "Marth Lewis",
+	 "position": "Senior Programmer",
+	 "yearincome": "135000"
+      }
+   ]
 }

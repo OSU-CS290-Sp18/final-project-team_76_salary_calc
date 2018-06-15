@@ -94,9 +94,9 @@ a {
    background-color: #DAEEF4;
 }
 
-#searchbutton {                                                               
+.button {                                                               
    font-size: 30px;
-   background: none; 
+   background: #EC6249;
    border: none;
    color: #112B36;
    cursor: pointer;
